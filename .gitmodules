@@ -1,0 +1,8 @@
+[submodule "CLIP"]
+	path = CLIP
+	url = https://github.com/openai/CLIP.git
+	branch = main
+[submodule "SCAN"]
+	path = SCAN
+	url = https://github.com/kuanghuei/SCAN.git
+	branch = master
