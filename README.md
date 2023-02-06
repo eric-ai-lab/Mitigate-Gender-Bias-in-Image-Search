@@ -12,7 +12,7 @@ Mitigating Gender Bias in Image Search](https://arxiv.org/abs/2109.05433).
 
 ## Data
 
-The image search data for occupations can be acquired [here](https://github.com/mjskay/gender-in-image-search).
+The image search data for occupations can be acquired [here](https://github.com/mjskay/gender-in-image-search). The gender-neutral captions used as MS-COCO and Flicker30K queries are available [here](https://drive.google.com/drive/folders/1VawbfSChqT2skCsCD8kPEwrwYuf4ckN6?usp=sharing).
 
 ## Running the code
 
